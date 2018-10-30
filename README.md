@@ -33,9 +33,8 @@ The workflow I currently use is the same as VUE-CLI which is as follows:
     - App.vue
     - main.js
     - store.js
-    - 
 
-![Challenge](src/README Vuex1.png)
+![Challenge](READMEVuex1.png)
 
 ## What is this series about
 
